@@ -1,5 +1,5 @@
 def celsius_para_fahrenheit(graus):
-    return (graus * 1.8) + 23
+    return (graus * 1.8) + 32
 
 
 def fahrenheit_para_celsius(graus):
